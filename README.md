@@ -1,4 +1,4 @@
-#This Repository is being used for MLOps class.
+#This Repository is being used for ML-Ops class.
 
 # Getting Started with Python on IBM Cloud
 
